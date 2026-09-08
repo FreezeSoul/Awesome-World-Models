@@ -224,6 +224,8 @@ Generation via World Model", **`arxiv 2025.05`**. [[Paper](https://arxiv.org/abs
 
 ---
 ## General World Models
+* **WorldSculpt**: "WorldSculpt: Generating Compositional Worlds from Grounded Videos", **`arxiv 2026.09`**. [[Paper](https://arxiv.org/abs/2609.05416)]
+* **TourPhysics**: "TourPhysics: Bringing Physics to World Models for Exploration and Manipulation from a Single Image", **`arxiv 2026.09`**. [[Paper](https://arxiv.org/abs/2609.04911)]
 * **WorldReward**: "WorldReward: Reward Modeling for Camera-Conditioned World Models", **`arxiv 2026.09`**. [[Paper](https://arxiv.org/abs/2609.03952)]
 * **OctWorld**: "OctWorld: Long-Range World-Consistent Video Generation with Octree-Based 3D Mapping", **`arxiv 2026.09`**. [[Paper](https://arxiv.org/abs/2609.03919)]
 * "Semantic Bayesian World Models", **`arxiv 2026.09`**. [[Paper](https://arxiv.org/abs/2609.03834)]
@@ -751,6 +753,7 @@ Agent, and World Models for Reasoning and Planning (LAW)`**. [[Paper](https://ar
 
 ---
 ## World Models for Embodied AI
+* **TacPAC**: "TacPAC: Tactile Prediction and Real-Time Action Correction in World-Action Models for Contact-Rich Manipulation", **`arxiv 2026.09`**. [[Paper](https://arxiv.org/abs/2609.05266)]
 * "Toward Physically Grounded JEPA World Models for Goal-Conditioned Robotic Planning", **`arxiv 2026.09`**. [[Paper](https://arxiv.org/abs/2609.03565)]
 * "Latent Energy Action Planning with World Models", **`arxiv 2026.09`**. [[Paper](https://arxiv.org/abs/2609.03294)]
 * "World-Model-Augmented Visual Locomotion for Humanoids on Foothold-Constrained Terrain", **`arxiv 2026.09`**. [[Paper](https://arxiv.org/abs/2609.02542)]
