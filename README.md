@@ -224,6 +224,10 @@ Generation via World Model", **`arxiv 2025.05`**. [[Paper](https://arxiv.org/abs
 
 ---
 ## General World Models
+* **VeriScene**: "VeriScene: Reconstructing Crime Scenes from Legal Evidence via World-Model Agent", **`arxiv 2026.09`**. [[Paper](https://arxiv.org/abs/2609.08342)]
+* **ActionSplice**: "ActionSplice: In-Flight Action Editing for Interactive World Models", **`arxiv 2026.09`**. [[Paper](https://arxiv.org/abs/2609.08230)]
+* "A radiographic world model for clinical reasoning and evidence generation", **`arxiv 2026.09`**. [[Paper](https://arxiv.org/abs/2609.07719)]
+* "Diagnosing and Dynamically Filtering Occupancy World Models for Active Mapping", **`arxiv 2026.09`**. [[Paper](https://arxiv.org/abs/2609.06820)]
 * **WorldSculpt**: "WorldSculpt: Generating Compositional Worlds from Grounded Videos", **`arxiv 2026.09`**. [[Paper](https://arxiv.org/abs/2609.05416)]
 * **TourPhysics**: "TourPhysics: Bringing Physics to World Models for Exploration and Manipulation from a Single Image", **`arxiv 2026.09`**. [[Paper](https://arxiv.org/abs/2609.04911)]
 * **WorldReward**: "WorldReward: Reward Modeling for Camera-Conditioned World Models", **`arxiv 2026.09`**. [[Paper](https://arxiv.org/abs/2609.03952)]
@@ -753,6 +757,13 @@ Agent, and World Models for Reasoning and Planning (LAW)`**. [[Paper](https://ar
 
 ---
 ## World Models for Embodied AI
+* **SyncWorld**: "SyncWorld: Visual Calibration Enables World Models as Zero-Shot Simulators", **`arxiv 2026.09`**. [[Paper](https://arxiv.org/abs/2609.09155)]
+* **WorldAgen**: "WorldAgen: Unified State-Action Prediction with Test-Time World Model Training", **`arxiv 2026.09`**. [[Paper](https://arxiv.org/abs/2609.08162)]
+* **OpenWAM**: "OpenWAM: An Open, Modular Exploration Towards Systematic World-Action Model Pretraining", **`arxiv 2026.09`**. [[Paper](https://arxiv.org/abs/2609.07398)]
+* "Beyond Task Success: Stage-Wise Reliability of World Model Planning under Sensing Degradation", **`arxiv 2026.09`**. [[Paper](https://arxiv.org/abs/2609.07126)]
+* **TrojanWorld**: "TrojanWorld: Backdooring World-Model Agents via Imagination Steering", **`arxiv 2026.09`**. [[Paper](https://arxiv.org/abs/2609.07051)]
+* **WM-Craftnet**: "WM-Craftnet: World Synesthesia Model for Generalizable and Robust Dexterous In-Hand Manipulation", **`arxiv 2026.09`**. [[Paper](https://arxiv.org/abs/2609.07002)]
+* "Learning to Use Imagination: Progress-Conditioned Future Utilization for World Action Models", **`arxiv 2026.09`**. [[Paper](https://arxiv.org/abs/2609.06578)]
 * **TacPAC**: "TacPAC: Tactile Prediction and Real-Time Action Correction in World-Action Models for Contact-Rich Manipulation", **`arxiv 2026.09`**. [[Paper](https://arxiv.org/abs/2609.05266)]
 * "Toward Physically Grounded JEPA World Models for Goal-Conditioned Robotic Planning", **`arxiv 2026.09`**. [[Paper](https://arxiv.org/abs/2609.03565)]
 * "Latent Energy Action Planning with World Models", **`arxiv 2026.09`**. [[Paper](https://arxiv.org/abs/2609.03294)]
@@ -1158,6 +1169,7 @@ Agent, and World Models for Reasoning and Planning (LAW)`**. [[Paper](https://ar
 
 ---
 ## World Models for Autonomous Driving
+* **PV-WM**: "PV-WM: A Heterogeneous Micro-Macro World Model for Articulated Pedestrian-Vehicle Co-Rollout", **`arxiv 2026.09`**. [[Paper](https://arxiv.org/abs/2609.07328)]
 * "Rethinking World Models for Safety-Critical Embodied Systems", **`arxiv 2026.09`**. [[Paper](https://arxiv.org/abs/2609.03774)]
 * **SV-WAM**: "SV-WAM: An Efficient Surround-View World-Action Model for End-to-End Autonomous Driving", **`arxiv 2026.09`**. [[Paper](https://arxiv.org/abs/2609.03602)]
 * **Drive-HWM**: "Drive-HWM: Hierarchical World Models for Dynamic-Latent Guided Autonomous Driving", **`arxiv 2026.09`**. [[Paper](https://arxiv.org/abs/2609.03572)]
