@@ -224,6 +224,9 @@ Generation via World Model", **`arxiv 2025.05`**. [[Paper](https://arxiv.org/abs
 
 ---
 ## General World Models
+* "Programmable World Model", **`arxiv 2026.09`**. [[Paper](https://arxiv.org/abs/2609.10540)]
+* **Arti-JEPA**: "Arti-JEPA: Adapting Video World Model to Real-Time MRI of the Vocal Tract for Speech-Production Analysis", **`arxiv 2026.09`**. [[Paper](https://arxiv.org/abs/2609.09757)]
+* **Valerant**: "Valerant: An Automatic Navigable Game Map Generator via Action-Conditioned World Model Exploration", **`arxiv 2026.09`**. [[Paper](https://arxiv.org/abs/2609.09418)]
 * **VeriScene**: "VeriScene: Reconstructing Crime Scenes from Legal Evidence via World-Model Agent", **`arxiv 2026.09`**. [[Paper](https://arxiv.org/abs/2609.08342)]
 * **ActionSplice**: "ActionSplice: In-Flight Action Editing for Interactive World Models", **`arxiv 2026.09`**. [[Paper](https://arxiv.org/abs/2609.08230)]
 * "A radiographic world model for clinical reasoning and evidence generation", **`arxiv 2026.09`**. [[Paper](https://arxiv.org/abs/2609.07719)]
@@ -757,6 +760,9 @@ Agent, and World Models for Reasoning and Planning (LAW)`**. [[Paper](https://ar
 
 ---
 ## World Models for Embodied AI
+* **DUET-DINO**: "DUET-DINO: Simultaneous Cross-View World Modeling for Latent Planning in Robot Manipulation", **`arxiv 2026.09`**. [[Paper](https://arxiv.org/abs/2609.10506)]
+* **HaWMPO**: "HaWMPO: Hallucination-Aware World Model-based Policy Optimization for Generalist Robot Policy", **`arxiv 2026.09`**. [[Paper](https://arxiv.org/abs/2609.09941)]
+* "Compact Visuotactile World Models for Lifting: Prediction, Reward Alignment, and Force Constraints", **`arxiv 2026.09`**. [[Paper](https://arxiv.org/abs/2609.09597)]
 * **SyncWorld**: "SyncWorld: Visual Calibration Enables World Models as Zero-Shot Simulators", **`arxiv 2026.09`**. [[Paper](https://arxiv.org/abs/2609.09155)]
 * **WorldAgen**: "WorldAgen: Unified State-Action Prediction with Test-Time World Model Training", **`arxiv 2026.09`**. [[Paper](https://arxiv.org/abs/2609.08162)]
 * **OpenWAM**: "OpenWAM: An Open, Modular Exploration Towards Systematic World-Action Model Pretraining", **`arxiv 2026.09`**. [[Paper](https://arxiv.org/abs/2609.07398)]
